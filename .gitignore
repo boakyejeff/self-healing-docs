@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Generated review queues
+reviews/
+
+# Virtualenvs and build artifacts
+.venv/
+venv/
+build/
+dist/
